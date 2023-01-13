@@ -1,0 +1,42 @@
+body {
+    background-color: #eaf6f6;
+}
+
+h1 {
+    color: #66bfbf;
+
+}
+
+h3{
+    color: #66bfbf;
+    text-decoration: underline;
+
+}
+
+hr {
+    border-style: dotted;
+    border-top-style: none;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+    background-color: #eaf6f6;
+}
+
+
+.bacon {
+    background-color: red;
+}
+
+.broccoli   {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+#heading {
+    color: blue;
+
+}
+
